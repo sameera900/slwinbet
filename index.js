@@ -1,1 +1,1 @@
-console.log('React App Loaded')
+document.getElementById('root').innerText = 'Welcome to SL WinBet';
