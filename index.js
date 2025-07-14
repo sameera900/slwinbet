@@ -1,3 +1,4 @@
+document.getElementById('root').innerText = 'Welcome to SL WinBet!';
 document.getElementById('root').innerHTML = `
   <div style="text-align:center; padding: 20px; font-family: sans-serif;">
     <h1>Welcome to SL WinBet 🎲</h1>
